@@ -1,7 +1,5 @@
 # Semantic Versioning
 
-![Alt text](https://github.com/kmanvitha30/Semantic-Versioning/blob/main/SemVer.png?raw=true "Optional Title")
-
 Semantic versioning (also referred as SemVer) is a versioning system with a 3-component number in the format of X.Y.Z, where :
 
   - X stands for a major version
@@ -9,6 +7,10 @@ Semantic versioning (also referred as SemVer) is a versioning system with a 3-co
   - Z stands for a patch 
  
 and X, Y and Z are non-negative integers.
+
+
+![Alt text](https://github.com/kmanvitha30/Semantic-Versioning/blob/main/SemVer.png?raw=true "Optional Title")
+
 
 #### Semantic Versioning Specifications 
 
